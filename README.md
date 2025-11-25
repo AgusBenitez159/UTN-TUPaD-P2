@@ -5,6 +5,7 @@ Tecnicatura Universitaria en Programación
 ✨ Estudiante
 Nombre: Tomas Agustin Benitez
 Comisión: M2025-6
+N°Legajo: 33952
 📂 Descripción del Repositorio
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 2.
 
